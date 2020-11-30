@@ -99,7 +99,7 @@ header .profile-image:hover {
   border-radius: 6px;
 }
 .card:hover {
-  border-color: rgb(107, 201, 107);
+  border-color: rgb(74, 209, 108);
 }
 
 ul.skills {
@@ -110,7 +110,7 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: rgb(120, 212, 120);
+  background: rgb(74, 209, 108);
   padding: 5px 10px;
   margin: 2px;
 }
@@ -222,9 +222,10 @@ h3 {
   padding: 5px;
   border: 2px solid #000;
   border-radius: 6px;
-  background-color: rgb(45, 207, 45);
+  background-color: rgb(74, 209, 108);
 }
 
 .non-list-links:hover {
-  color: dodgerblue;
+  color: rgb(74, 209, 108);
+  font-weight: bold;
 }
