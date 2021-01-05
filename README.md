@@ -1,4 +1,4 @@
-# First webpage
+# My first webpage at Treehouse
 Website: https://nurme-ave.github.io/my-coding-journey/
 
 Here's my first front end project on Treehouse's Front End Web Development track.
